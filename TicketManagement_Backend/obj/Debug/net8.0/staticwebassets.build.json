@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "flVYSUceDmuiHM7dBZMLN+EkLL6ZAioP4npzxrIv0dA=",
+  "Source": "TicketManagement_Backend",
+  "BasePath": "_content/TicketManagement_Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
