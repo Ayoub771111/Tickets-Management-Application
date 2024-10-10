@@ -48,7 +48,7 @@ namespace TicketManagement_Backend.Repositories
                 await _context.SaveChangesAsync();
             }
         }
-
+        
         public async Task<bool> TicketExistsAsync(int id)
         {
             return await _context.Tickets.AnyAsync(t => t.TicketID == id);

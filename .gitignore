@@ -1,1 +1,18 @@
+# Ignore build artifacts and generated files for .NET
 .TicketManagement_Backend/vs/
+TicketManagement_Backend/bin/
+TicketManagement_Backend/obj/
+TicketManagement_Backend/.vs/
+
+# Node modules and build artifacts for React frontend
+TicketManagement_Frontend/my-app/node_modules/
+TicketManagement_Frontend/my-app/build/
+TicketManagement_Frontend/my-app/.env.local
+TicketManagement_Frontend/my-app/.next/
+TicketManagement_Frontend/my-app/out/
+TicketManagement_Frontend/my-app/npm-debug.log*
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+.DS_Store

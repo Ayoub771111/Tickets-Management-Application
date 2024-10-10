@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|c:\\users\\ayoub\\onedrive\\bureau\\ticket_management\\ticketmanagement_backend\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|solutionrelative:repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|c:\\users\\ayoub\\onedrive\\bureau\\ticket_management\\ticketmanagement_backend\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|solutionrelative:repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|c:\\users\\ayoub\\onedrive\\bureau\\ticket_management\\ticketmanagement_backend\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51819269-B495-4233-B4B5-B4D4593002D2}|TicketManagement_Backend.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +51,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Repositories\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Repositories\\ITicketRepository.cs",
+              "RelativeToolTip": "Repositories\\ITicketRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:26:14.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "Repositories\\TicketRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:25:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\ayoub\\OneDrive\\Bureau\\Ticket_Management\\TicketManagement_Backend\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:24:13.205Z"
             }
           ]
         }

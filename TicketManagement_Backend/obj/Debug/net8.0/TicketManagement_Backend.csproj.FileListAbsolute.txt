@@ -140,3 +140,4 @@ C:\Users\ayoub\OneDrive\Bureau\Ticket_Management\TicketManagement_Backend\obj\De
 C:\Users\ayoub\OneDrive\Bureau\Ticket_Management\TicketManagement_Backend\obj\Debug\net8.0\TicketManagement_Backend.pdb
 C:\Users\ayoub\OneDrive\Bureau\Ticket_Management\TicketManagement_Backend\obj\Debug\net8.0\TicketManagement_Backend.genruntimeconfig.cache
 C:\Users\ayoub\OneDrive\Bureau\Ticket_Management\TicketManagement_Backend\obj\Debug\net8.0\ref\TicketManagement_Backend.dll
+C:\Users\ayoub\OneDrive\Bureau\Ticket_Management\TicketManagement_Backend\obj\Debug\net8.0\TicketManagement_Backend.sourcelink.json
